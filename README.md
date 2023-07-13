@@ -20,7 +20,7 @@ Approach Taken:
             2. Created Handler class to handle the manage logic and processing of data or events with in an application.
 
   Platform Event : 
-            1. Platform Event is used to crate a Exception loger record creation.
+            1. Platform Event is used to create a Exception loger record creation.
 
 
   Permission Set : 
